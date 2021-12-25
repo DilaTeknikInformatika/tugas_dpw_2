@@ -58,3 +58,5 @@ Route::get('watch', function () {
 Route::get('contact', function () {
     return view('contact');
 });
+
+
